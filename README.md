@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Vaishnavi Gawale  
+# Hi, I'm Vaishnavi 👋😄
 
 🎓 **M.S. in Artificial Intelligence** — *University at Buffalo, SUNY (2024-2026)*  
 💡 Passionate about **Artificial Intelligence, Neuroscience, and Neuroprosthetics**  
-📍 Buffalo, NY | 📧 vgawale@buffalo.edu | 📞 716-533-6999  
-🔗 [LinkedIn](https://www.linkedin.com/in/vgawale/) • [Portfolio](https://vaishnavi2231.github.io/profile/)  
+
 
 ---
 
