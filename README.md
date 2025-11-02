@@ -2,9 +2,9 @@
 
 **Machine Learning Engineer | NeuroAI Enthusiast 🎯**
  
-📖 Pursuing M.S. in Artificial Intelligence at University at Buffalo (Graduating 2026).
+📖 Pursuing M.S. in Artificial Intelligence at University at Buffalo,NY (Graduating 2026).
 
-🔍 Currently working as a Research Scientist Intern at Clinical Translational Research Center, Buffalo for building neuroimaging analysis pipeline and appying Machine Learning algorithms for early detection of Alzheimer's.
+🔍 Currently working as a Research Scientist Intern at Clinical Translational Research Center, Buffalo, NY for building neuroimaging analysis pipeline and appying Machine Learning algorithms for early detection of Alzheimer's.
 
  💻 I’m a Machine Learning Engineer and Researcher passionate about building intelligent systems at the intersection of Artificial Intelligence, Neuroscience, and Brain-Computer Interface.
 
