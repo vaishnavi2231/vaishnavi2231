@@ -17,7 +17,7 @@ I’m deeply interested in the **intersection of AI and neuroscience**, especial
 - 🧩 **Neuroprosthetics** and **Brain–Computer Interfaces (BCI)**  
 - 🧬 **Motor function restoration** through neural decoding  
 - 🧠 **Machine Learning for neural signal interpretation**  
-- 🔍 Developing **translational neurotechnologies** bridging theory and real-world impact  
+- 🤖 **Reinforcement learning** and **Computer Vision** for adaptive decision-making and intelligent agent design
 
 ---
 
