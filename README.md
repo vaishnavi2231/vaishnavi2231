@@ -1,4 +1,4 @@
-# Hi, I'm Vaishnavi 👩🏻‍⚖️👋😄
+# Hi, I'm Vaishnavi 👩🏻‍💼👋😄
 
 **Machine Learning Engineer | NeuroAI Enthusiast 🎯**
  
