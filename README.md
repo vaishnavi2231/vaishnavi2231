@@ -1,6 +1,6 @@
 # Hi, I'm Vaishnavi 👩🏻‍⚖️👋😄
--- 
-Machine Learning Engineer | NeuroAI Enthusiast 🎯
+
+**Machine Learning Engineer | NeuroAI Enthusiast 🎯**
  
 📖 Pursuing M.S. in Artificial Intelligence at University at Buffalo (Graduating 2026).
 
@@ -8,9 +8,8 @@ Machine Learning Engineer | NeuroAI Enthusiast 🎯
 
  💻 I’m a Machine Learning Engineer and Researcher passionate about building intelligent systems at the intersection of Artificial Intelligence, Neuroscience, and Brain-Computer Interface.
 
-✅️ How to reach me: [vgawale@buffalo.edu] | [LinkedIn](https://www.linkedin.com/in/vgawale/) | [Portfolio](https://vaishnavi2231.github.io/profile/)
+✅️ How to reach me: vgawale@buffalo.edu | [LinkedIn](https://www.linkedin.com/in/vgawale/) | [Portfolio](https://vaishnavi2231.github.io/profile/)
 
-⚡ Fun fact: I was the captain of my university cricket team and love combining strategy on the field with data-driven decision-making.
 ---
 
 ## 🧠 Research Interests  
