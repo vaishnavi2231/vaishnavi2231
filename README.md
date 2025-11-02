@@ -1,9 +1,16 @@
-# Hi, I'm Vaishnavi 👋😄
+# Hi, I'm Vaishnavi 👩🏻‍⚖️👋😄
+-- 
+Machine Learning Engineer | NeuroAI Enthusiast 🎯
+ 
+📖 Pursuing M.S. in Artificial Intelligence at University at Buffalo (Graduating 2026).
 
-🎓 **M.S. in Artificial Intelligence** — *University at Buffalo, SUNY (2024-2026)*  
-💡 Passionate about **Artificial Intelligence, Neuroscience, and Neuroprosthetics**  
+🔍 Currently working as a Research Scientist Intern at Clinical Translational Research Center, Buffalo for building neuroimaging analysis pipeline and appying Machine Learning algorithms for early detection of Alzheimer's.
 
+ 💻 I’m a Machine Learning Engineer and Researcher passionate about building intelligent systems at the intersection of Artificial Intelligence, Neuroscience, and Brain-Computer Interface.
 
+✅️ How to reach me: [vgawale@buffalo.edu] | [LinkedIn](https://www.linkedin.com/in/vgawale/) | [Portfolio](https://vaishnavi2231.github.io/profile/)
+
+⚡ Fun fact: I was the captain of my university cricket team and love combining strategy on the field with data-driven decision-making.
 ---
 
 ## 🧠 Research Interests  
@@ -17,16 +24,16 @@ I’m deeply interested in the **intersection of AI and neuroscience**, especial
 
 ## 🎓 Education  
 
-**🎓 Master of Science in Artificial Intelligence**  
+**Master of Science in Artificial Intelligence**  
 *University at Buffalo – SUNY, New York, USA (Aug 2024 – Jan 2026)*  
 Courses: ML • AI Fundamentals • Numerical Math • Algorithms • Data-Intensive Computing • Computer Vision • RL • Pattern Recognition  
 
-**🎓 Master of Technology in Computer Engineering**  
+**Master of Technology in Computer Engineering**  
 *University of Mumbai – VJTI, India (Aug 2017 – Jul 2019)*  
 Publication: *Firewall Algorithm Approach for DDoS Attack Mitigation on Cloud*, IJSRD (2019)  
 Graduate TA: Python and C Programming (Fall 2017–Spring 2018)  
 
-**🎓 Bachelor of Engineering in Computer Science & Engineering**  
+**Bachelor of Engineering in Computer Science & Engineering**  
 *Dr. BAMU University, Aurangabad, India (Aug 2014 – Jul 2017)*  
 
 ---
@@ -119,17 +126,10 @@ Graduate TA: Python and C Programming (Fall 2017–Spring 2018)
 
 ---
 
-## 📊 GitHub Stats  
+## 🤝 Lets Connect!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi2231&show_icons=true&theme=radical" alt="Vaishnavi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi2231&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Feel free to reach out if you're looking for a researcher, have a question, or just want to say hi. I'm always open to discussing new projects and ideas.
 
----
-
-## 🤝 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/vgawale/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:vgawale@buffalo.edu"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail"></a>
