@@ -2,13 +2,15 @@
 
 **Machine Learning Engineer | NeuroAI Enthusiast 🎯**
  
-📖 Pursuing M.S. in Artificial Intelligence at University at Buffalo,NY (Graduating 2026).
+📖 Graduated with M.S. in Artificial Intelligence at University at Buffalo,NY (Graduating 2026).
 
-🔍 Currently working as a Research Scientist Intern at Clinical Translational Research Center, Buffalo, NY for building neuroimaging analysis pipeline and appying Machine Learning algorithms for early detection of Alzheimer's.
+💻 Currently working as a Machine Learning Engineer @CYBRA Corporation, NY, USA.  
+
+🔍 Worked as Research Scientist Intern at Clinical Translational Research Center, Buffalo, NY for building neuroimaging analysis pipeline and appiyng Machine Learning and deep learning algorithms for early detection of Alzheimer's.
 
  💻 I’m a Machine Learning Engineer and Researcher passionate about building intelligent systems at the intersection of Artificial Intelligence, Neuroscience, and Brain-Computer Interface.
 
-✅️ How to reach me: vgawale@buffalo.edu | [LinkedIn](https://www.linkedin.com/in/vgawale/) | [Portfolio](https://vaishnavi2231.github.io/profile/)
+✅️ How to reach me: gawalevaishnavi@gmail.com | [LinkedIn](https://www.linkedin.com/in/vgawale/) | [Portfolio](https://vaishnavi2231.github.io/profile/)
 
 ---
 
@@ -57,6 +59,11 @@ Graduate TA: Python and C Programming (Fall 2017–Spring 2018)
 ---
 
 ## 💼 Professional Experience  
+
+### 👩‍🏫 Machine Learning Engineer | CYBRA, NY, USA 
+*May 2026 – Present*  
+- Developing an AI-driven RFID validation framework for warehouse automation using Python and machine learning. 
+- Working with cross-functional teams to integrate AI solutions into enterprise RFID software.
 
 ### 👩‍🏫 Research Assistant Professor | MGM University, Aurangabad, India  
 *Jan 2024 – Jul 2024*  
@@ -131,6 +138,6 @@ Feel free to reach out if you're looking for a researcher, have a question, or j
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vgawale/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:vgawale@buffalo.edu"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:gawalevaishnavi@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail"></a>
   <a href="https://vaishnavi2231.github.io/profile/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github"></a>
 </p>
