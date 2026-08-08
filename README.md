@@ -42,7 +42,7 @@ Graduate TA: Python and C Programming (Fall 2017–Spring 2018)
 ## 🔬 Research Experience  
 
 ### 🧩 Research Scientist Intern | Clinical & Translational Research Center, Buffalo, NY  
-*Jan 2025 – Present*  
+*Jan 2025 – Jan 2026*  
 **Project:** *CEST MRI-Based Biomarker Development for Early Alzheimer’s Diagnosis*  
 - Built an automated CEST MRI pipeline for **APT signal correction & regional amyloid-beta quantification**  
 - Conducted **MRI & PET preprocessing**, **Centiloid SUVR quantification**, and **ROI-level statistical correlation**  
